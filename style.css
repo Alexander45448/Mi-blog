@@ -52,7 +52,7 @@ body{
 img{
     width: 10rem;
     height: 10rem;
-    border-radius: 50%;
+    border-radius: 100%;
     min-width: 100px;
     float: left;
 }
